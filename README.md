@@ -1,16 +1,24 @@
-### Hi there 👋
+[banner](https://user-images.githubusercontent.com/84652060/219430500-54fa7109-10b0-43c9-bb7b-c285c3f3072d.gif)
+
+# Hi everyone! Welcome to my profile. 👋!
 
 <!--
-**YabokuTakane/Yabokutakane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Yaboku and my nick "YabokuTakane"!
 
-Here are some ideas to get you started:
+### - Currently studying 7th semester of computer science 📚
+### - I work as a technical support in the company Mhf Sistemas.
+### - I'm researching technologies like react and electron, I've been studying some C# on a small game project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Currently studying:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
+          
+          
+          
+          
+
 -->
