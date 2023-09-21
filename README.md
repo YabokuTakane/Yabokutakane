@@ -6,11 +6,8 @@
 
 ### - Currently studying 7th semester of computer science 📚
 ### - I work as a technical support in the company Mhf Sistemas.
-### - I'm researching technologies like react and electron, I've been studying some C# on a small game project.
+### - I'm researching technologies like flutter and dart, I've been studying some C# on a small game project.
 
 ## Currently studying:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="75" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="75" height="50" />
 
