@@ -2,7 +2,7 @@
 
 # Hi everyone! Welcome to my profile. 👋!
 
-## My name is *Victor Rodrigues* and my nick "*YabokuTakane*"!
+## My name is *Victor Rodrigues* and my nick "*Izuimi*"!
 
 ### - Currently studying 8th semester of computer science 📚
 ### - I work as a technical support in the company Mhf Sistemas.
